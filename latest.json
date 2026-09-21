@@ -1,6 +1,6 @@
 {
-  "version": "v1.0.0",
-  "build": 100,
+  "version": "v1.0.2",
+  "build": 102,
   "url": "https://github.com/janez007/SmartEVSE_PV_OTA/releases/download/v1.0.0/firmware.signed.bin",
-  "sha256": "0D6CF37364581ADCC669F8F5070FAC705FE6EB0E4301791B3091FC6A65CA454C"
+  "sha256": "BA6AA57E4B0AA2C564DCF3D594ECC6C2B814922ECF120896B84B92393D74D9C4"
 }

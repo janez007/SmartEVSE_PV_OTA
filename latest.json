@@ -1,6 +1,6 @@
 {
   "version": "v1.0.3",
   "build": 103,
-  "url": "https://raw.githubusercontent.com/janez007/SmartEVSE_PV_OTA/main/firmware.signed.bin",
+  "url": "http://smartevse-pv-ota-janez007.s3-website.eu-north-1.amazonaws.com/firmware.signed.bin",
   "sha256": "BAC1A67DF2BC86A1AA5308917687A8C92484BD2DC4720E422409782EB1C37423"
 }
